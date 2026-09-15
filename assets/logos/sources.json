@@ -1,0 +1,26 @@
+{
+  "nvidia": {
+    "source": "https://www.nvidia.com/en-us/about-nvidia/legal-info/logo-brand-usage/",
+    "origin": "Original inline SVG in NVIDIA site header; paths unchanged. Horizontal eyemark + wordmark.",
+    "file": "nvidia.svg",
+    "note": "Original geometry with a trimmed viewport and currentColor fills for monochrome display."
+  },
+  "google": {
+    "source": "https://about.google/brand-resource-center/logos-list/",
+    "origin": "Original inline SVG Google wordmark from official Google brand resource page; paths unchanged.",
+    "file": "google.svg",
+    "note": "Original geometry with a trimmed viewport and currentColor fills for monochrome display."
+  },
+  "columbia": {
+    "source": "https://www.columbia.edu/content/themes/custom/columbia/assets/img/cu-blue-logo.svg",
+    "origin": "Original SVG downloaded from official Columbia site. Crown + Columbia University + in the City of New York line.",
+    "file": "columbia.svg",
+    "note": "Original geometry with a trimmed viewport and currentColor fills for monochrome display."
+  },
+  "youtube": {
+    "source": "https://brand.youtube/youtube-logo/",
+    "origin": "Official Digital/02 Almost Black/yt_logo_almostblack_digital.ai converted from embedded PDF vector data to SVG using PyMuPDF; paths remain vector artwork, no redraw. Play triangle is a transparent cutout.",
+    "file": "youtube.svg",
+    "note": "Original geometry with a trimmed viewport and currentColor fills for monochrome display."
+  }
+}
